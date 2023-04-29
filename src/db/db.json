@@ -1,0 +1,105 @@
+{
+  "enderecos":[
+    {
+      "Id": "",
+      "CEP": "",
+      "CidadeId": "",
+      "Bairro": "",
+      "Endereco": "",
+      "NumeroEndereco": "",
+      "Complemento": "",
+      "Referencia": ""
+    }
+  ],
+  "mensagens": [
+    {
+      "Id": "",
+      "Descricao": "",
+      "AbrigoId": "",
+      "UsuarioId": "",
+      "DataEnvio": ""
+    }
+  ],
+
+  "animais": [
+    {
+      "Id": "",
+      "Nome": ""
+    }
+  ],
+
+  "fotos": [
+    {
+      "Id":"",
+      "Midia": ""
+    }
+  ],
+
+  "agendas": [
+    {
+      "Id": "",
+      "AbrigoId": "",
+      "UsuarioId": "",
+      "AnimalEstimacaoId": "",
+      "Inicio": "",
+      "Fim": ""
+    }
+  ],
+
+  "abrigos": [
+    {
+      "Id": "",
+      "Codigo": "",
+      "Login": "",
+      "Senha": "",
+      "Nome": "",
+      "CNPJ": "",
+      "EnderecoId": "",
+      "Informacoes": "",
+      "Responsavel": ""
+    }
+  ],
+
+  "estados": [
+    {
+      "Id": "",
+      "Nome": "",
+      "Sigla": ""
+    }
+  ],
+
+  "cidades": [
+    {
+      "Id": "",
+      "Nome": "",
+      "EstadoId": ""
+    }
+  ],
+
+  "especies": [
+    {
+      "Id": "",
+      "Nome": ""
+    }
+  ],
+
+  "animaisEstimacao": [
+    {
+      "Id": "",
+      "Codigo": "",
+      "AnimalId": "",
+      "EspecieId": "",
+      "AbrigoId": "",
+      "FotoId": "",
+      "Apelido": "",
+      "DataNascimento": "",
+      "Sexo": "",
+      "Personalidade": "",
+      "Necessidades": "",
+      "Observacao": "",
+      "VacinacaoEmDia": "",
+      "Castrado": "",
+      "Status": ""
+    }
+  ]
+}
